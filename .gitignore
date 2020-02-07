@@ -4,6 +4,7 @@
 *.osm
 *.html
 *.png
+*.csv
 
 # Packages #
 ############
